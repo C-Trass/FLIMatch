@@ -37,10 +37,10 @@ pip install -r requirements.txt
 ## Who is this for?
 FLIMatch is intended for:
 
--FLIM users comparing lifetime data across experiments or conditions
--Researchers interested in lifetime-based classification or matching
--Users working with heterogeneous or low-photon FLIM datasets
--Scientists who want quantitative alternatives to intensity-based
+- FLIM users comparing lifetime data across experiments or conditions
+- Researchers interested in lifetime-based classification or matching
+- Users working with heterogeneous or low-photon FLIM datasets
+- Scientists who want quantitative alternatives to intensity-based
 comparisons
 
 ---
