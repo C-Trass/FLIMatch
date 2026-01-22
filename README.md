@@ -28,7 +28,7 @@ in biophysics and fluorescence microscopy.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FLIMatch.git
+git clone https://github.com/C-Trass/FLIMatch.git
 cd FLIMatch
 pip install -r requirements.txt
 ```
